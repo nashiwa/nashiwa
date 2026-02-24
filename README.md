@@ -8,7 +8,7 @@ const nashiwa = {
   pronouns: "She/Her",
   bornIn: "Bangladesh 🇧🇩",
   basedIn: "Essen, Germany 🇩🇪",
-  hobbies: ["Reading 📚", "Building web apps 💻"],
+  hobbies: ["Reading 📚"],
   interests: ["Full-Stack Development", "Frontend", "Backend", "Problem Solving"],
   currentlyLearning: ["Modern Web Dev", "APIs", "Cloud Basics"],
   womanInTech: true,
