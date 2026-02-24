@@ -1,13 +1,7 @@
-<h1 align="center">Hey 👋 I'm Nashiwa</h1>
-<p align="center">Working Student — Data & AI Platform @ E.ON | Full Stack Developer (Frontend/Backend)</p>
+<h1 align="center">Hey 👋 I'm Nashiwa Reza</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nashiwa-reza" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:nashiwa.reza@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+(Frontend%2FBackend)+%7C+Tech+Enthusiast;Always+learning+something+new+%E2%9C%A8;Building+web+apps+that+make+life+easier+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,8 +29,8 @@ const nashiwa = {
 - 🤝 Open to collaborate 
 
 <hr style="height:4px;border-width:0;background-color:#000">
----
-## 🛠 Tech Stack
+
+<h2>🛠 Tech Stack</h2>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -68,8 +62,6 @@ const nashiwa = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-0062FF?style=flat-square&logo=ibm&logoColor=white)
-
-<hr style="height:4px;border-width:0;background-color:#000">
 
 ---
 
@@ -105,5 +97,5 @@ const nashiwa = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%99%82;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
