@@ -67,3 +67,23 @@ const nashiwa = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![IBM DB2](https://img.shields.io/badge/IBM%20DB2-0062FF?style=flat-square&logo=ibm&logoColor=white)
+
+<hr style="height:4px;border-width:0;background-color:#000">
+
+---
+
+## 📄 Resume
+
+<p>
+  <a href="YOUR_ENGLISH_RESUME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Resume%20(English)-0B5FFF?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+  <a href="YOUR_GERMAN_RESUME_LINK" target="_blank">
+    <img src="https://img.shields.io/badge/Lebenslauf%20(Deutsch)-16A34A?style=for-the-badge&logo=readme&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🙌 Thank you for visiting.
+### 💻 Happy coding — keep building, keep learning 🚀
