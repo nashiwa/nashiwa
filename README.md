@@ -35,6 +35,7 @@ const nashiwa = {
 - 🤝 Open to collaborate 
 
 <hr style="height:4px;border-width:0;background-color:#000">
+---
 ## 🛠 Tech Stack
 
 ### Languages
@@ -85,6 +86,24 @@ const nashiwa = {
 
 ---
 
+<h2>🤝 Let’s Connect!</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+  💼 Open to new opportunities and collaborations<br/>
+  📧 Feel free to reach out via LinkedIn or Gmail
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/nashiwa-reza" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:nashiwa.reza@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=650&lines=Thanks+for+visiting!;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
