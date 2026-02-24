@@ -13,7 +13,7 @@
 ---
 
 ## 👩‍💻 About Me
-<hr style="height:4px;border-width:0;background-color:#000">
+```js
 const nashiwa = {
   pronouns: "She/Her",
   bornIn: "Bangladesh 🇧🇩",
@@ -26,6 +26,7 @@ const nashiwa = {
   lookingToCollaborate: true,
   funFact: "I can spend hours with a good book and still ship code the same day ☕📚"
 };
+```
 
 - 🚀 Full Stack Developer (Frontend/Backend)  
 - 🛠 Working Student — Data & AI Platform (automation + integrations)  
@@ -33,6 +34,7 @@ const nashiwa = {
 - ☁️ Exploring cloud and DevOps practices for production-ready apps  
 - 🤝 Open to collaborate 
 
+<hr style="height:4px;border-width:0;background-color:#000">
 ## 🛠 Tech Stack
 
 ### Languages
@@ -40,7 +42,7 @@ const nashiwa = {
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
