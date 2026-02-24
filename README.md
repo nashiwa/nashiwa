@@ -93,5 +93,5 @@ const nashiwa = {
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=700&lines=Thanks+for+visiting!+%F0%9F%99%82;Happy+Coding!+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1500&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+%F0%9F%99%82;Build.+Break.+Learn.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
 </p>
