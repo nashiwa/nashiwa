@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=38&pause=900&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+Nashiwa+Reza" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=38&pause=900&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+!+I'm+Nashiwa+Reza" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(Frontend%2FBackend)+%F0%9F%92%BB;Tech+enthusiast+who+loves+learning+new+things+%E2%9C%A8;Reader+by+heart+%F0%9F%93%9A+%7C+Builder+by+passion+%F0%9F%94%A5" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+(Frontend%2FBackend)+%7C+Tech+Enthusiast;Always+learning+something+new+%E2%9C%A8;Building+web+apps+that+make+life+easier+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
